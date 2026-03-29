@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="http://a-korath.github.io/CSE445-ASGN4/NationalParks.xsd">
+
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="Flagstaff Pulliam Airport (FLG)">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Gates of Arctic</Name>
+    <Phone>907-459-3730</Phone>
+    <Address NearestAirport="Fairbanks International Airport (FAI)">
+      <Number>101</Number>
+      <Street>Dunkel Street, Suite 110</Street>
+      <City>Fairbanks</City>
+      <State>AK</State>
+      <Zip>99701</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Wrangell-St. Elias National Park and Preserve</Name>
+    <Phone>907 822-5234</Phone>
+    <Address NearestAirport="Anchorage International Airport (ANC)">
+      <Number>PO Box 439</Number>
+      <Street>Mile 106.8 Richardson Highway,</Street>
+      <City>Copper Center</City>
+      <State>AK</State>
+      <Zip>99573</Zip>
+    </Address>
+  </NationalPark>
+
+
+  <NationalPark Rating="4.2">
+    <Name>Death Valley National Park</Name>
+    <Phone>760 786-3200</Phone>
+    <Address NearestAirport="Furnace Creek Airport (L06)">
+      <Number>P.O. Box 579</Number>
+      <Street></Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+
+
+  <NationalPark Rating="4.7">
+    <Name>Glacier National Park</Name>
+    <Phone>406-888-7800</Phone>
+    <Phone>406-888-7857</Phone>
+    <Phone>406-888-5441</Phone>
+    <Phone>855-733-4522</Phone>
+    <Address NearestAirport="Glacier Park International Airport (FCA)">
+      <Number>PO Box 128</Number>
+      <Street></Street>
+      <City>West Glacier</City>
+      <State>MT</State>
+      <Zip>59936</Zip>
+    </Address>
+  </NationalPark>
+
+
+  <NationalPark>
+    <Name>North Cascades National Park</Name>
+    <Phone>360 854-7200</Phone>
+    <Phone>206-386-4495</Phone>
+    <Phone>360-856-5700</Phone>
+    <Phone>360-854-7245</Phone>
+    <Address NearestAirport="Seattle-Tacoma International Airport (SEA)">
+      <Number>810</Number>
+      <Street>State Route 20</Street>
+      <City>Sedro-Woolley</City>
+      <State>WA</State>
+      <Zip>98284</Zip>
+    </Address>
+  </NationalPark>
+
+
+  <NationalPark>
+    <Name>Isle Royale National Park</Name>
+    <Phone>906 482-0984</Phone>
+    <Phone>906-289-4437</Phone>
+    <Address NearestAirport="Houghton County Memorial Airport (CMX)">
+      <Number>800</Number>
+      <Street>East Lakeshore Drive</Street>
+      <City>Houghton</City>
+      <State>MI</State>
+      <Zip>49931</Zip>
+    </Address>
+  </NationalPark>
+
+
+  <NationalPark Rating="4.6">
+    <Name>Denali National Park and Preserve</Name>
+    <Phone>907 683-9532</Phone>
+    <Phone>800-622-7275</Phone>
+    <Phone>907-272-7275</Phone>
+    <Phone>907-683-9275</Phone>
+    <Address NearestAirport="Fairbanks International Airport (FAI)">
+      <Number>PO Box 9</Number>
+      <Street></Street>
+      <City>Denali Park</City>
+      <State>AK</State>
+      <Zip>99755</Zip>
+    </Address>
+  </NationalPark>
+
+
+  <NationalPark Rating="4.5">
+    <Name>Big Bend National Park</Name>
+    <Phone>432-477-2251</Phone>
+    <Address NearestAirport="Midland International Air and Space Port (MAF)">
+      <Number>PO Box 129</Number>
+      <Street></Street>
+      <City>Big Bend National Park</City>
+      <State>TX</State>
+      <Zip>79834-0129</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Zion National Park</Name>
+    <Phone>435-772-3256</Phone>
+    <Phone>435-772-3810</Phone>
+    <Phone>435-772-3213</Phone>
+    <Phone>303-297-2757</Phone>
+    <Address NearestAirport="St. George Regional Airport (SGU)">
+      <Number>1</Number>
+      <Street>Zion Park Blvd.</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Rocky Mountain National Park</Name>
+    <Phone>970 586-1206</Phone>
+    <Address NearestAirport="Denver International Airport (DEN)">
+      <Number>1000</Number>
+      <Street>US Hwy 36</Street>
+      <City>Estes Park</City>
+      <State>CO</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+
+</NationalParks>
